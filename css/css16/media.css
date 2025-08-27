@@ -1,0 +1,15 @@
+h1{
+    background-color: red;
+    border: solid 2px black;
+    font-size: 20px;
+
+}
+
+@media(width: 400px) {
+    h1 {
+        background-color: rgb(255, 204, 0);
+        font-size: 30px;
+        color: white;
+    }
+
+}
